@@ -7,6 +7,6 @@ This project uses four differnet algorithims to determine weather an Ohio resdie
   - Gausain Naive Bayes
   - Linear Regression
   - Random Forest
-  - Neural Work
+  - Neural Network
   
   The notebook can be veiwed here - https://nbviewer.jupyter.org/github/Castaldo/US-Mortgage-Analysis/blob/master/Lower%20Mortgage%20Analysis.ipynb
